@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="org.comstudy21.myapp.AppMain" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/AppMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="113" x="38" y="-417"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.comstudy21.myapp.view.MainFrame" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/view/MainFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="132" x="279" y="-417"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="org.comstudy21.myapp.view.BtnView" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/view/BtnView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="132" x="688" y="-346"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.comstudy21.myapp.view.ListView" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/view/ListView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="132" x="512" y="-319"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.comstudy21.myapp.view.TitleView" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/view/TitleView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="132" x="356" y="-276"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="org.comstudy21.myapp.view.View" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/view/View.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="132" x="320" y="-148"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="org.comstudy21.myapp.view.InputView" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/view/InputView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="132" x="203" y="-270"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.comstudy21.myapp.view.GraphView" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/view/GraphView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="54" width="132" x="29" y="-273"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="org.comstudy21.myapp.resource.R" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/resource/R.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="209" x="487" y="-40"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="org.comstudy21.myapp.model.Dto" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/model/Dto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="172" x="741" y="48"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="org.comstudy21.myapp.model.Dao" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/model/Dao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="163" x="745" y="-34"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="org.comstudy21.myapp.evt.MouseEvtHandler" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/evt/MouseEvtHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="166" x="531" y="-185"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="org.comstudy21.myapp.evt.BtnEvtHandler" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/evt/BtnEvtHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="152" x="708" y="-223"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="org.comstudy21.myapp.evt.InputEvtHandler" project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/evt/InputEvtHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="174" x="747" y="-129"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="org.comstudy21.myapp.controller.SelectController" 
+    project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/controller/SelectController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="28" y="-140"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="org.comstudy21.myapp.controller.SearchController" 
+    project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/controller/SearchController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="30" y="-79"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="org.comstudy21.myapp.controller.AppendController" 
+    project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/controller/AppendController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="30" y="-10"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="org.comstudy21.myapp.controller.DeleteController" 
+    project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/controller/DeleteController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="30" y="59"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="org.comstudy21.myapp.controller.EraserController" 
+    project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/controller/EraserController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="349" y="59"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="org.comstudy21.myapp.controller.ModifyController" 
+    project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/controller/ModifyController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="188" y="59"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="21" language="java" name="org.comstudy21.myapp.controller.Controller" 
+    project="Sunggon_MiniProject_Swing" 
+    file="/Sunggon_MiniProject_Swing/src/org/comstudy21/myapp/controller/Controller.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="255" y="-54"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="22">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="23" name="listView">        
+        <position height="0" width="0" x="182" y="-24"/>      
+      </attribute>      
+      <multiplicity id="24" minimum="0" maximum="1">        
+        <position height="0" width="0" x="182" y="-24"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="25">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <realization id="26">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="27">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="28" name="list">        
+        <position height="0" width="0" x="-407" y="-384"/>      
+      </attribute>      
+      <multiplicity id="29" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-407" y="-384"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="30">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <association id="32">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="33" name="graphView">        
+        <position height="0" width="0" x="6" y="79"/>      
+      </attribute>      
+      <multiplicity id="34" minimum="0" maximum="1">        
+        <position height="0" width="0" x="6" y="79"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="35">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <realization id="36">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <association id="37">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="38" name="target">        
+        <position height="0" width="0" x="182" y="-24"/>      
+      </attribute>      
+      <multiplicity id="39" minimum="0" maximum="1">        
+        <position height="0" width="0" x="182" y="-24"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="40">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="41">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="42" name="mainframe">        
+        <position height="0" width="0" x="67" y="33"/>      
+      </attribute>      
+      <multiplicity id="43" minimum="0" maximum="1">        
+        <position height="0" width="0" x="67" y="33"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="45">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <realization id="46">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="48">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="50">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="51" name="btnView">        
+        <position height="0" width="0" x="466" y="-182"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="1">        
+        <position height="0" width="0" x="466" y="-182"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="54" name="titleView">        
+        <position height="0" width="0" x="-130" y="96"/>      
+      </attribute>      
+      <multiplicity id="55" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-130" y="96"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="57" name="target">        
+        <position height="0" width="0" x="466" y="-182"/>      
+      </attribute>      
+      <multiplicity id="58" minimum="0" maximum="1">        
+        <position height="0" width="0" x="466" y="-182"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="60" name="inputView">        
+        <position height="0" width="0" x="-464" y="183"/>      
+      </attribute>      
+      <multiplicity id="61" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-464" y="183"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <realization id="64">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
